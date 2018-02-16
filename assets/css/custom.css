@@ -30,8 +30,8 @@
 .circle-background {
     color: #726193 !important;
     background: white;
-    width: 50px !important;
-    height: 50px;
+    width: 3rem !important;
+    height: 3rem;
     -moz-transition: background-color 0.2s ease-in-out;
     -webkit-transition: background-color 0.2s ease-in-out;
     -ms-transition: background-color 0.2s ease-in-out;
