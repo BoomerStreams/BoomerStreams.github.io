@@ -50,3 +50,11 @@
     transition: background-color 0.2s ease-in-out;
     background-color: #ffe4b4 !important;
 }
+
+h1, h2, h3, h4, h5, h6 {
+text-shadow: 3px 3px 5px #222;
+}
+
+p {
+text-shadow: 2px 2px 4px #222;
+}
