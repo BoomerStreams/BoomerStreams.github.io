@@ -65,7 +65,8 @@ p, li, ul, td {
 
 #navigation {
     z-index: 2;
-    position: fixed;
-    top: 100px;
 }
 
+.button {
+    margin: 10px;
+}
