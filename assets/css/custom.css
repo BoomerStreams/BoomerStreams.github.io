@@ -58,3 +58,7 @@ text-shadow: 3px 3px 5px #222;
 p {
 text-shadow: 2px 2px 4px #222;
 }
+
+.circle-icon {
+	filter: drop-shadow( 3px 3px 6px #222);
+}
