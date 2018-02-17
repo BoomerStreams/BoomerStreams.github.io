@@ -55,10 +55,17 @@ h1, h2, h3, h4, h5, h6 {
 text-shadow: 3px 3px 5px #222;
 }
 
-p {
+p, li, ul, td {
 text-shadow: 2px 2px 4px #222;
 }
 
 .circle-icon {
 	filter: drop-shadow( 3px 3px 6px #222);
 }
+
+#navigation {
+z-index: 2;
+position: fixed;
+	top: 100px;
+}
+
