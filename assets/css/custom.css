@@ -70,3 +70,11 @@ p, li, ul, td {
 .button {
     margin: 10px;
 }
+
+.panel.medium {
+    width: 40rem;
+}
+
+.intro.color1 {
+    width: 27rem;
+}
