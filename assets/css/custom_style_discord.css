@@ -1,0 +1,35 @@
+/*!
+* Start Bootstrap - The Big Picture (https://startbootstrap.com/template-overviews/the-big-picture)
+* Copyright 2013-2019 Start Bootstrap
+* Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
+*/
+body{
+    background-color: #2C2F33;
+    color: #FFFFFF;
+}
+h1{
+    font-family: 'Ubuntu';
+    font-style: italic;
+    font-size: 5rem;
+}
+p{    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-size: 1.5rem;
+}
+#img_title{
+    height: 10rem;
+}
+button{
+    margin-bottom: 1rem;
+}
+.vertical-center {
+    min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+    min-height: 100vh; /* These two lines are counted as one :-)       */
+
+    display: flex;
+    align-items: center;
+}
+.row{
+    width: 100%;
+}
